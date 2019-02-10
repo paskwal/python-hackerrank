@@ -1,2 +1,2 @@
 # python-hackerrank
-Repository of my Python solutions for Hackerrank site exercices: https://www.hackerrank.com/domains/python.
+Repository of my Python solutions for Hackerrank site exercises: https://www.hackerrank.com/domains/python.
