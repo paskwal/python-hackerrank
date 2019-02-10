@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # 
-
+# (c) @paskwal, 2019
 
 # Problem
 # You have a record of N students. Each record contains the student's name, and their percent marks in Maths, Physics and Chemistry.

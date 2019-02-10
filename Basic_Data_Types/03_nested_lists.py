@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 # 
+# (c) @paskwal, 2019
+
 # https://www.hackerrank.com/challenges/nested-list/problem
 
 # Problem
@@ -13,7 +15,7 @@
 # The 2*N subsequent lines describe each student over 2 lines; the first line contains a student's name, and the second line contains
 # their grade.
 
-# < 03_test_case_00.txt
+# < 03_testcase_00_in.txt
 # Berry
 # Harry
 
